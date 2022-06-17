@@ -7,7 +7,7 @@ Este é o repositório do nosso projeto desenvolvido para a disciplina de Projet
 ### Integrantes do grupo - Squad 2:
 
     👨‍💻 Everton Sebastião do Nascimento 
-    👨‍💻  Igor Vinicius da Silva Nascimento
+    👨‍💻 Igor Vinicius da Silva Nascimento
     👨‍💻   
     👨‍💻 
     👨‍💻 
